@@ -244,7 +244,7 @@ If you like this project,
 
 # 👨‍💻 Developer
 
-## Ganesh Basava Nayak
+## Kartik Yadawada
 
 Java Full Stack Developer
 
