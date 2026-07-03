@@ -248,9 +248,9 @@ If you like this project,
 
 Java Full Stack Developer
 
-📧 Email: ganeshnayak7348@gmail.com
+📧 Email: kartikyadawada96@gmail.com
 
-🔗 GitHub: https://github.com/Ganesh-Basava-Nayak
+🔗 GitHub: https://github.com/kartik119
 
 
 ---
